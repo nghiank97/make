@@ -1,0 +1,4 @@
+CC = gcc : source compile
+Cxx = g++
+$? : dependency files
+$@ : terget file
